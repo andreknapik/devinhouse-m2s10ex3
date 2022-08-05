@@ -1,0 +1,15 @@
+C:\Users\dreh1\HttpClientApi\bin\Debug\net6.0\HttpClientApi.exe
+C:\Users\dreh1\HttpClientApi\bin\Debug\net6.0\HttpClientApi.deps.json
+C:\Users\dreh1\HttpClientApi\bin\Debug\net6.0\HttpClientApi.runtimeconfig.json
+C:\Users\dreh1\HttpClientApi\bin\Debug\net6.0\HttpClientApi.dll
+C:\Users\dreh1\HttpClientApi\bin\Debug\net6.0\HttpClientApi.pdb
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\HttpClientApi.csproj.AssemblyReference.cache
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\HttpClientApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\HttpClientApi.AssemblyInfoInputs.cache
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\HttpClientApi.AssemblyInfo.cs
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\HttpClientApi.csproj.CoreCompileInputs.cache
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\HttpClientApi.dll
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\refint\HttpClientApi.dll
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\HttpClientApi.pdb
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\HttpClientApi.genruntimeconfig.cache
+C:\Users\dreh1\HttpClientApi\obj\Debug\net6.0\ref\HttpClientApi.dll
